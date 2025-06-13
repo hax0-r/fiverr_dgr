@@ -7,13 +7,13 @@ footer.innerHTML = `
             <div class="flex md:items-center md:justify-center mt-5 md:mt-0 md:gap-16 gap-5 md:flex-row flex-col">
                 <div class="">
                     <h2 class="text-white uppercase font-medium text-xl">Contact</h2>
-                    <a href="mailto:contact@dgr.com"
-                        class="hover:underline text-zinc-200 mt-1 block text-lg">contact@dgr.com</a>
+                    <a href="mailto:info@dgrgroup.net"
+                        class="hover:underline text-zinc-200 mt-1 block text-lg">info@dgrgroup.net</a>
                 </div>
                 <div class="">
                     <h2 class="text-white uppercase font-medium text-xl">Press & Public Relations</h2>
-                    <a href="mailto:philosophy@dgrgroup.net"
-                        class="hover:underline text-zinc-200 mt-1 block text-lg">philosophy@dgrgroup.net</a>
+                    <a href="mailto:info@dgrgroup.net.net"
+                        class="hover:underline text-zinc-200 mt-1 block text-lg">info@dgrgroup.net.net</a>
                 </div>
             </div>
         </div>
