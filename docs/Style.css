@@ -52,3 +52,8 @@ input:user-invalid {
     background: linear-gradient(rgba(0, 0, 0, 0.171),rgba(0, 0, 0, 0.226)),url(/docs/assets/images/philosophy.jpg) no-repeat center center/cover;
     height: 100vh;
 }
+
+.industries{
+    background: linear-gradient(rgba(0, 0, 0, 0.171),rgba(0, 0, 0, 0.226)),url(/docs/assets/images/industries.jpg) no-repeat center center/cover;
+    height: 100vh;
+}

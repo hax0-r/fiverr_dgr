@@ -16,7 +16,7 @@ dynamic_navbar.innerHTML = `
                         </li>
                         <li><a href="/philosophy.html" class="hover:text-opacity-80 transition-all duration-500">Philosophy</a>
                         </li>
-                        <li><a href="/login.html" class="hover:text-opacity-80 transition-all duration-500">Login</a>
+                        <li><a href="/industries.html" class="hover:text-opacity-80 transition-all duration-500">Industries</a>
                         </li>
                     </ul>
                 </div>
@@ -57,7 +57,7 @@ dynamic_navbar.innerHTML = `
                         </li>
                         <li><a href="/philosophy.html" class="hover:text-opacity-80 transition-all duration-500">Philosophy</a>
                         </li>
-                        <li><a href="/login.html" class="hover:text-opacity-80 transition-all duration-500">Login</a>
+                        <li><a href="/industries.html" class="hover:text-opacity-80 transition-all duration-500">Industries</a>
                         </li>
             </ul>
             <ul
