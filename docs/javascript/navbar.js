@@ -3,9 +3,9 @@ const dynamic_navbar = document.getElementById("navbar");
 dynamic_navbar.innerHTML = `
     <nav class="fixed navbar md:top-6 top-4 px-4 left-0 w-full z-40 transition-all duration-300">
         <div data-aos="fade-down"
-            class="max-w-7xl mx-auto glass rounded-2xl flex justify-between items-center w-full md:p-5 p-3 md:h-20 h-16">
+            class="max-w-7xl mx-auto glass rounded-2xl flex justify-between items-center w-full md:p-5 p-3 md:h-28 h-20">
             <a href="/index.html" class="flex items-center justify-center lg:justify-start">
-                <img src="/docs/assets/images/logo.png" class="md:h-16 h-10" alt="logo">
+                <img src="/docs/assets/images/logo.png" class="md:h-20 h-16" alt="logo">
             </a>
             <div class="md:flex hidden items-center gap-10">
                 <div class="md:flex items-center gap-10 hidden">
