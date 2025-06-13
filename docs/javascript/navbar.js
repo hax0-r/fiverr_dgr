@@ -22,8 +22,8 @@ dynamic_navbar.innerHTML = `
                 </div>
             </div>
             <div class="md:flex items-center justify-center gap-4 hidden">
-                <a href="/contact.html"
-                    class="md:block hidden transition-all duration-500 hover:opacity-80 px-6 py-1.5 uppercase rounded-lg text-white bg-[#183385]">Contact</a>
+                <a href="/careers.html"
+                    class="md:block hidden transition-all duration-500 hover:opacity-80 px-6 py-1.5 uppercase rounded-lg text-white bg-[#183385]">Careers</a>
                 <div class="w-0.5 bg-zinc-500 rounded-full h-6"></div>
                 <div class="flex items-center justify-center gap-2 relative">
                     <div id="language" class="cursor-pointer flex items-center gap-1">
@@ -70,8 +70,8 @@ dynamic_navbar.innerHTML = `
                         class="hover:text-opacity-80 overflow-hidden transition-all duration-500 border rounded-lg w-full block py-1">DE</a>
                 </li>
             </ul>
-            <a href="/contact.html"
-                class=" block text-nowrap transition-all duration-500 hover:opacity-80 px-6 py-3 uppercase rounded-lg text-white bg-[#183385] text-center mt-3">Contact Us</a>
+            <a href="/careers.html"
+                class=" block text-nowrap transition-all duration-500 hover:opacity-80 px-6 py-3 uppercase rounded-lg text-white bg-[#183385] text-center mt-3">Careers</a>
         </div>
     </div>
 `

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DGR</title>
+
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="/docs/assets/images/favicon.png" type="image/x-icon">
+
+    <!-- Styles & Scripts -->
+    <link rel="stylesheet" href="/docs/Style.css">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://unpkg.com/lenis@1.3.1/dist/lenis.css">
+    <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
+</head>
+
+
+<body class="">
+
+    <div id="bottomToTopScroll"></div>
+    <div id="navbar"></div>
+
+    <section class="max-w-md mx-auto px-6 md:mt-44 mt-28">
+        <h1 data-aos="fade-up" class="text-4xl md:text-5xl font-semibold mb-4 text-[#183385] text-center">Login</h1>
+        <p data-aos="fade-up" class="text-[#556492] md:text-lg text-center pb-5 border-b-2 border-zinc-200">Enter your
+            email and password to login!</p>
+        <form data-aos="fade-up" action="" class="w-full mt-8">
+            <label for="name" class="text-zinc-700"> Name</label>
+            <input required type="text" name="name" id="name" placeholder="Enter Your Name"
+                class="w-full md:mb-8 mb-6 rounded-lg p-3 border border-zinc-200 mt-1">
+            <label for="password" class="text-zinc-700"> Password</label>
+            <input required type="password" name="password" id="password" placeholder="Enter Password"
+                class="w-full rounded-lg p-3 border border-zinc-200 mt-1">
+            <button
+                class="bg-[#183385] mt-5 w-full text-center rounded-lg transition-all duration-500 hover:opacity-80 cursor-pointer text-white p-3.5">Login</button>
+        </form>
+
+    </section>
+
+    <div class="md:mt-20 mt-10" id="footer"></div>
+
+    <script src="https://unpkg.com/lenis@1.3.1/dist/lenis.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+    <script src="./docs/javascript/global.js"></script>
+    <script src="./docs/javascript/navbar.js"></script>
+    <script src="./docs/javascript/footer.js"></script>
+</body>
+
+</html>

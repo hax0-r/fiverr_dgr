@@ -7,13 +7,13 @@ footer.innerHTML = `
             <div class="flex md:items-center md:justify-center mt-5 md:mt-0 md:gap-16 gap-5 md:flex-row flex-col">
                 <div class="">
                     <h2 class="text-white uppercase font-medium text-xl">Contact</h2>
-                    <a href="mailto:contact@stark-defence.com"
-                        class="hover:underline text-zinc-200 mt-1 block text-lg">contact@stark-defence.com</a>
+                    <a href="mailto:contact@dgr.com"
+                        class="hover:underline text-zinc-200 mt-1 block text-lg">contact@dgr.com</a>
                 </div>
                 <div class="">
                     <h2 class="text-white uppercase font-medium text-xl">Press & Public Relations</h2>
-                    <a href="mailto:media@stark-defence.com"
-                        class="hover:underline text-zinc-200 mt-1 block text-lg">media@stark-defence.com</a>
+                    <a href="mailto:philosophy@dgrgroup.net"
+                        class="hover:underline text-zinc-200 mt-1 block text-lg">philosophy@dgrgroup.net</a>
                 </div>
             </div>
         </div>
@@ -23,10 +23,6 @@ footer.innerHTML = `
                 <a href="/privacy-policy.html" class="hover:underline text-zinc-200 block ">Privacy Policy</a>
                 <a href="/imprint.html" class="hover:underline text-zinc-200 block ">Imprint</a>
                 <a href="/careers.html" class="hover:underline text-zinc-200 block ">Careers</a>
-                <a href="#" class="hover:underline text-zinc-200 block ">
-                    <i class="fa-brands fa-linkedin text-2xl"></i>
-                </a>
-
             </div>
         </div>
     </footer>
