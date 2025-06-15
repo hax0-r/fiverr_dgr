@@ -88,7 +88,7 @@ window.addEventListener("scroll", () => {
     const currentScrollPos = window.scrollY;
     if (currentScrollPos > prevScrollPos) {
         // Scrolling down
-        navbar.style.transform = `translateY(-7rem)`;
+        navbar.style.transform = `translateY(-9rem)`;
     } else {
         // Scrolling up
         navbar.style.transform = `translateY(0%)`;
